@@ -11,7 +11,7 @@ public class Bla {
 	}
 	
 	public void lalal() {
-		
+		System.out.println("lala");
 	}
 	
 	public void foobar() {
