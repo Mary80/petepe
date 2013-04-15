@@ -13,5 +13,9 @@ public class Bla {
 	public void lalal() {
 		
 	}
+	
+	public void foobar() {
+		
+	}
 
 }
