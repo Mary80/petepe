@@ -9,5 +9,9 @@ public class Bla {
 		// TODO Auto-generated method stub
 
 	}
+	
+	public void lalal() {
+		
+	}
 
 }
