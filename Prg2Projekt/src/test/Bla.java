@@ -17,5 +17,9 @@ public class Bla {
 	public void foobar() {
 		
 	}
+	
+	public void blabla() {     
+	
+	}
 
 }
